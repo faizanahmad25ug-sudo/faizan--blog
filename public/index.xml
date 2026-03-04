@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>/</link>
+    <link>https://github.com/faizanahmad25ug-sudo/faizan--blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Feb 2026 11:41:01 +0530</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/faizanahmad25ug-sudo/faizan--blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://github.com/faizanahmad25ug-sudo/faizan--blog/posts/my-first-post/</link>
       <pubDate>Wed, 04 Feb 2026 11:41:01 +0530</pubDate>
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://github.com/faizanahmad25ug-sudo/faizan--blog/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is my first blog, i am a information science student in Bangalore,so this is my second semester.&#xA;I have chosen this course because i like computing, i also participated in a science exhibition in my school time, i had created a robotic arm, also try to build a drone, but i failed very badely.&lt;/p&gt;&#xA;&lt;p&gt;How  a computer works inside the hardware, and how it understands our commands, after giving instruction how it processes it. It is truly passive to work with a computer.&lt;/p&gt;</description>
     </item>
   </channel>
