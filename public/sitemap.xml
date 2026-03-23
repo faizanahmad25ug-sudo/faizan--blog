@@ -2,23 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/post/blog2@/</loc>
+    <loc>https://github.com/faizanahmad25ug-sudo/faizan--blog/post/blog2@/</loc>
     <lastmod>2026-03-18T15:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/</loc>
+    <loc>https://github.com/faizanahmad25ug-sudo/faizan--blog/</loc>
     <lastmod>2026-03-18T15:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/post/</loc>
+    <loc>https://github.com/faizanahmad25ug-sudo/faizan--blog/post/</loc>
     <lastmod>2026-03-18T15:52:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/posts/my-first-post/</loc>
-    <lastmod>2026-02-04T11:41:01+05:30</lastmod>
+    <loc>https://github.com/faizanahmad25ug-sudo/faizan--blog/post/20260323115705/</loc>
   </url><url>
-    <loc>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/posts/</loc>
-    <lastmod>2026-02-04T11:41:01+05:30</lastmod>
+    <loc>https://github.com/faizanahmad25ug-sudo/faizan--blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/tags/</loc>
+    <loc>https://github.com/faizanahmad25ug-sudo/faizan--blog/tags/</loc>
   </url>
 </urlset>

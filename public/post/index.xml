@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/post/</link>
+    <link>https://github.com/faizanahmad25ug-sudo/faizan--blog/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Mar 2026 15:52:32 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/faizanahmad25ug-sudo/faizan--blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog2@</title>
-      <link>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/post/blog2@/</link>
+      <link>https://github.com/faizanahmad25ug-sudo/faizan--blog/post/blog2@/</link>
       <pubDate>Wed, 18 Mar 2026 15:52:32 +0530</pubDate>
-      <guid>http://localhost:1313/faizanahmad25ug-sudo/faizan--blog/post/blog2@/</guid>
+      <guid>https://github.com/faizanahmad25ug-sudo/faizan--blog/post/blog2@/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This course is very interesting for me and also challenging; some of the things are very new to me, and some are a little familiar. The coin problem, the Bridge problem, finding the best possible and efficient route, and the train problem are interesting, and I already have some ideas. The train problem is quite fascinating and requires your mind to think about something new, something different. Things like blogs are totally new for me, I had no idea what Git Bash or what Zettlr is. These are challenging for me, and I am still encountering issues with this. The dynamic programming is also new to me. I had solved problems like this, but I never used this type of approach. This is a very effective and efficient way to solve problems. The image formation and transformation are also new to me and very interesting. I had no information about transformation, what is does, how an image is formed, and how an image becomes an image. When we are compressing an image, what actually happens to the image, or while we are editing an image by increasing or decreasing contrast, brightness. How RGB forms the different colors of an image, you can particularly increase the redness or greenness of an image by increasing the values. I had no idea before this related to the image. The problem of the coin, you can solve it with your initial intuition, but what if you have a bigger number than how you solve it, so a dynamic approach is needed here. This is very helpful for finding the shortest paths and knapsack optimization.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://github.com/faizanahmad25ug-sudo/faizan--blog/post/20260323115705/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/faizanahmad25ug-sudo/faizan--blog/post/20260323115705/</guid>
+      <description>&lt;h1 id=&#34;blog-1&#34;&gt;Blog 1@&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;It was such a really interesting experience to learn about information, understanding different types of information, storing, differentiating, and categorization of raw data. Some of the things are new to me, some things that I know, like i had some idea on information and on different types of data graphs, and from the data graph, taking out the information, and then after making our own intuition, so I am able to connect with the topics.The DIKW is totally new to me; it structures the information based on contextualization, interpretation and application Abstract theory to a practical real-world example in courses: using census data gives an understanding of the concept of data, Perceptual and Cognitive Limits of Multivariate Data Visualization– links the process of naturally understanding information by visually. The cognitive limit is very challenging. This reading glorifies that our brain has a limit to remember to, to understand( How many variables can one person understand?) Realizing that there is a mathematical and psychological limit on how much information we can process at once can be a hard and difficult concept to grasp when dealing with &amp;ldquo;Big Data.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
