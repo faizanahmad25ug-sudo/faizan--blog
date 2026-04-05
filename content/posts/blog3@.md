@@ -1,0 +1,6 @@
++++
+date = '2026-04-05T11:21:10+05:30'
+draft = false
+title = 'Blog3@'
++++
+**This unit is beyond learning; it tells that falling is good and not failing is bad. What I mean is that if you fail, then only you understand how to tackle the problem and prepare for the upcoming consequences. If you fail, then you know the test of winning. When I read the case study and the assigned chapter, it opens my mind to failing and winning, what is good failing and bad failing, failing doesn't defeat you, it makes you strong, every time you fail, you learn something new. As in my case study and The Perfect Storm chapter; the system had bugs that generated fake money shortfalls in branch accounts. Instead of investigating the software, the Post Office blamed and prosecuted the subpostmasters running those branches. It is a software failure, but they don't take it seriously, so it becomes a consequence. People think that all is finite, as all was fine before. Complex failure is not only caused by one thing; instead, it is a combination of small, unnoticeable problems that we usually ignore and are added at the wrong moment, each of which seems manageable, when they all add up to cause disaster. Instead of blaming the individual, learn from mistakes and move on, so that complex failure becomes a powerful learning experience.**
